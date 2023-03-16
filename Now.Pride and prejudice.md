@@ -528,16 +528,16 @@ Mrs. Bennet was prevented replying by the entrance of the footman with a note fo
 
 “It is from Miss Bingley,” said Jane, and then read it aloud.
 
-     /* NIND “My dear friend, */
+> “My dear friend,
 
-     “If you are not so compassionate as to dine to-day with Louisa and
-     me, we shall be in danger of hating each other for the rest of our
-     lives; for a whole day’s *tête-à-tête* between two women can never
-     end without a quarrel. Come as soon as you can on the receipt of
-     this. My brother and the gentlemen are to dine with the officers.
-     Yours ever,
+> “If you are not so compassionate as to dine to-day with Louisa and
+me, we shall be in danger of hating each other for the rest of our
+lives; for a whole day’s *tête-à-tête* between two women can never
+end without a quarrel. Come as soon as you can on the receipt of
+this. My brother and the gentlemen are to dine with the officers.
+Yours ever,
 
-“CAROLINE BINGLEY.”
+> “CAROLINE BINGLEY.”
 
 “With the officers!” cried Lydia: “I wonder my aunt did not tell us of *that*.”
 
