@@ -565,16 +565,16 @@ She did at last extort from her father an acknowledgment that the horses were en
 
 “This was a lucky idea of mine, indeed!” said Mrs. Bennet, more than once, as if the credit of making it rain were all her own. Till the next morning, however, she was not aware of all the felicity of her contrivance. Breakfast was scarcely over when a servant from Netherfield brought the following note for Elizabeth:--
 
-     /* NIND “My dearest Lizzie, */
+> “My dearest Lizzie,
 
-     “I find myself very unwell this morning, which, I suppose, is to be
-     imputed to my getting wet through yesterday. My kind friends will
-     not hear of my returning home till I am better. They insist also on
-     my seeing Mr. Jones--therefore do not be alarmed if you should hear
-     of his having been to me--and, excepting a sore throat and a
-     headache, there is not much the matter with me.
+“I find myself very unwell this morning, which, I suppose, is to be
+imputed to my getting wet through yesterday. My kind friends will
+not hear of my returning home till I am better. They insist also on
+my seeing Mr. Jones--therefore do not be alarmed if you should hear
+of his having been to me--and, excepting a sore throat and a
+> headache, there is not much the matter with me.
 
-“Yours, etc.”
+> “Yours, etc.”
 
 “Well, my dear,” said Mr. Bennet, when Elizabeth had read the note aloud, “if your daughter should have a dangerous fit of illness--if she should die--it would be a comfort to know that it was all in pursuit of Mr. Bingley, and under your orders.”
 
