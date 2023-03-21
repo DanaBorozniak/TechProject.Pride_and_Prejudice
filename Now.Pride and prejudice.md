@@ -36,7 +36,7 @@ Preface.
 
 *George Saintsbury.*
 
-
+<img src="GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="" style="width:42px;height:42px;">
 # Chapter 1
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.
