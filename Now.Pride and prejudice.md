@@ -3758,6 +3758,7 @@ up. Good-bye. Give my love to Colonel Forster. I hope you will
 drink to our good journey.
 
 “Your affectionate friend,
+
 “Lydia Bennet.”
 
 
