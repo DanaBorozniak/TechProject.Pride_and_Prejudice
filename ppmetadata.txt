@@ -1,2 +1,10 @@
-ppmetadata.txt
+---
+title: Pride and Prejudice
+author: Jane Austen
+language: eng-uk
+publisher: Ruskin House
+rights: Copyright 1894 by George Allen
+cover-image: 
+stylesheet: ppstyle.css
 
+...
