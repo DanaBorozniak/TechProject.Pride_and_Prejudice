@@ -3761,7 +3761,6 @@ drink to our good journey.
 
 “Lydia Bennet.”
 
-
 “Oh, thoughtless, thoughtless Lydia!” cried Elizabeth when she had finished it. “What a letter is this, to be written at such a moment! But at least it shows that *she* was serious in the object of her journey. Whatever he might afterwards persuade her to, it was not on her side a *scheme* of infamy. My poor father! how he must have felt it!”
 
 “I never saw anyone so shocked. He could not speak a word for full ten minutes. My mother was taken ill immediately, and the whole house in such confusion!”
