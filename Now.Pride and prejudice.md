@@ -3737,9 +3737,9 @@ In the afternoon, the two elder Miss Bennets were able to be for half an hour by
 
 Jane then took it from her pocket-book, and gave it to Elizabeth. These were the contents:--
 
-> “My dear Harriet,
+LETTER“My dear Harriet,
 
-> “You will laugh when you know where I am gone, and I cannot help
+“You will laugh when you know where I am gone, and I cannot help
 laughing myself at your surprise to-morrow morning, as soon as I am
 missed. I am going to Gretna Green, and if you cannot guess with
 who, I shall think you a simpleton, for there is but one man in the
@@ -3757,9 +3757,8 @@ mend a great slit in my worked muslin gown before they are packed
 up. Good-bye. Give my love to Colonel Forster. I hope you will
 drink to our good journey.
 
-> “Your affectionate friend,
-
-> “Lydia Bennet.”
+“Your affectionate friend,
+“Lydia Bennet.”
 
 
 “Oh, thoughtless, thoughtless Lydia!” cried Elizabeth when she had finished it. “What a letter is this, to be written at such a moment! But at least it shows that *she* was serious in the object of her journey. Whatever he might afterwards persuade her to, it was not on her side a *scheme* of infamy. My poor father! how he must have felt it!”
