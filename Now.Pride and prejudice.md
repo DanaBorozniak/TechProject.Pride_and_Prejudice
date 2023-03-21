@@ -3737,9 +3737,9 @@ In the afternoon, the two elder Miss Bennets were able to be for half an hour by
 
 Jane then took it from her pocket-book, and gave it to Elizabeth. These were the contents:--
 
-> “My dear Harriet,
+LETTER“My dear Harriet,
 
-> “You will laugh when you know where I am gone, and I cannot help
+“You will laugh when you know where I am gone, and I cannot help
 laughing myself at your surprise to-morrow morning, as soon as I am
 missed. I am going to Gretna Green, and if you cannot guess with
 who, I shall think you a simpleton, for there is but one man in the
@@ -3757,9 +3757,8 @@ mend a great slit in my worked muslin gown before they are packed
 up. Good-bye. Give my love to Colonel Forster. I hope you will
 drink to our good journey.
 
-> “Your affectionate friend,
-
-> “Lydia Bennet.”
+“Your affectionate friend,
+“Lydia Bennet.”
 
 
 “Oh, thoughtless, thoughtless Lydia!” cried Elizabeth when she had finished it. “What a letter is this, to be written at such a moment! But at least it shows that *she* was serious in the object of her journey. Whatever he might afterwards persuade her to, it was not on her side a *scheme* of infamy. My poor father! how he must have felt it!”
@@ -3813,9 +3812,9 @@ Every day at Longbourn was now a day of anxiety; but the most anxious part of ea
 
 But before they heard again from Mr. Gardiner, a letter arrived for their father, from a different quarter, from Mr. Collins; which, as Jane had received directions to open all that came for him in his absence, she accordingly read; and Elizabeth, who knew what curiosities his letters always were, looked over her, and read it likewise. It was as follows:--
 
-> “My dear Sir,
+LETTER“My dear Sir,
 
-> “I feel myself called upon, by our relationship, and my situation
+“I feel myself called upon, by our relationship, and my situation
 in life, to condole with you on the grievous affliction you are now
 suffering under, of which we were yesterday informed by a letter
 from Hertfordshire. Be assured, my dear sir, that Mrs. Collins and
@@ -3846,7 +3845,7 @@ my dear sir, to console yourself as much as possible, to throw off
 your unworthy child from your affection for ever, and leave her to
 reap the fruits of her own heinous offence.
 
-> “I am, dear sir,” etc., etc.
+“I am, dear sir,” etc., etc.
 
 Mr. Gardiner did not write again, till he had received an answer from Colonel Forster; and then he had nothing of a pleasant nature to send. It was not known that Wickham had a single relation with whom he kept up any connection, and it was certain that he had no near one living. His former acquaintance had been numerous; but since he had been in the militia, it did not appear that he was on terms of particular friendship with any of them. There was no one, therefore, who could be pointed out as likely to give any news of him. And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount. Colonel Forster believed that more than a thousand pounds would be necessary to clear his expenses at Brighton. He owed a good deal in the town, but his debts of honour were still more formidable. Mr. Gardiner did not attempt to conceal these particulars from the Longbourn family; Jane heard them with horror. “A gamester!” she cried. “This is wholly unexpected; I had not an idea of it.”
 
@@ -3929,50 +3928,50 @@ Elizabeth impatiently caught it from his hand. Jane now came up.
 
 “Read it aloud,” said their father, “for I hardly know myself what it is about.”
 
-     “Gracechurch Street, *Monday, August 2*.
+LETTER“Gracechurch Street, *Monday, August 2*.
 
 “My dear Brother,
 
-     “At last I am able to send you some tidings of my niece, and such
-     as, upon the whole, I hope will give you satisfaction. Soon after
-     you left me on Saturday, I was fortunate enough to find out in what
-     part of London they were. The particulars I reserve till we meet.
-     It is enough to know they are discovered: I have seen them
-     both----”
+“At last I am able to send you some tidings of my niece, and such
+as, upon the whole, I hope will give you satisfaction. Soon after
+you left me on Saturday, I was fortunate enough to find out in what
+part of London they were. The particulars I reserve till we meet.
+It is enough to know they are discovered: I have seen them
+both----”
 
      
 
      
 
-     “Then it is as I always hoped,” cried Jane: “they are married!”
+“Then it is as I always hoped,” cried Jane: “they are married!”
 
-     Elizabeth read on: “I have seen them both. They are not married,
-     nor can I find there was any intention of being so; but if you are
-     willing to perform the engagements which I have ventured to make on
-     your side, I hope it will not be long before they are. All that is
-     required of you is, to assure to your daughter, by settlement, her
-     equal share of the five thousand pounds, secured among your
-     children after the decease of yourself and my sister; and,
-     moreover, to enter into an engagement of allowing her, during your
-     life, one hundred pounds per annum. These are conditions which,
-     considering everything, I had no hesitation in complying with, as
-     far as I thought myself privileged, for you. I shall send this by
-     express, that no time may be lost in bringing me your answer. You
-     will easily comprehend, from these particulars, that Mr. Wickham’s
-     circumstances are not so hopeless as they are generally believed to
-     be. The world has been deceived in that respect; and I am happy to
-     say, there will be some little money, even when all his debts are
-     discharged, to settle on my niece, in addition to her own fortune.
-     If, as I conclude will be the case, you send me full powers to act
-     in your name throughout the whole of this business, I will
-     immediately give directions to Haggerston for preparing a proper
-     settlement. There will not be the smallest occasion for your coming
-     to town again; therefore stay quietly at Longbourn, and depend on
-     my diligence and care. Send back your answer as soon as you can,
-     and be careful to write explicitly. We have judged it best that my
-     niece should be married from this house, of which I hope you will
-     approve. She comes to us to-day. I shall write again as soon as
-     anything more is determined on. Yours, etc.
+LETTERElizabeth read on: “I have seen them both. They are not married,
+nor can I find there was any intention of being so; but if you are
+willing to perform the engagements which I have ventured to make on
+your side, I hope it will not be long before they are. All that is
+required of you is, to assure to your daughter, by settlement, her
+equal share of the five thousand pounds, secured among your
+children after the decease of yourself and my sister; and,
+moreover, to enter into an engagement of allowing her, during your
+life, one hundred pounds per annum. These are conditions which,
+considering everything, I had no hesitation in complying with, as
+far as I thought myself privileged, for you. I shall send this by
+express, that no time may be lost in bringing me your answer. You
+will easily comprehend, from these particulars, that Mr. Wickham’s
+circumstances are not so hopeless as they are generally believed to
+be. The world has been deceived in that respect; and I am happy to
+say, there will be some little money, even when all his debts are
+discharged, to settle on my niece, in addition to her own fortune.
+If, as I conclude will be the case, you send me full powers to act
+in your name throughout the whole of this business, I will
+immediately give directions to Haggerston for preparing a proper
+settlement. There will not be the smallest occasion for your coming
+to town again; therefore stay quietly at Longbourn, and depend on
+my diligence and care. Send back your answer as soon as you can,
+and be careful to write explicitly. We have judged it best that my
+niece should be married from this house, of which I hope you will
+approve. She comes to us to-day. I shall write again as soon as
+anything more is determined on. Yours, etc.
 
 “Edw. Gardiner.”
 
