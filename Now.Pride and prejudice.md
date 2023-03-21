@@ -3737,9 +3737,9 @@ In the afternoon, the two elder Miss Bennets were able to be for half an hour by
 
 Jane then took it from her pocket-book, and gave it to Elizabeth. These were the contents:--
 
-> “My dear Harriet,
+LETTER“My dear Harriet,
 
-> “You will laugh when you know where I am gone, and I cannot help
+“You will laugh when you know where I am gone, and I cannot help
 laughing myself at your surprise to-morrow morning, as soon as I am
 missed. I am going to Gretna Green, and if you cannot guess with
 who, I shall think you a simpleton, for there is but one man in the
@@ -3757,10 +3757,9 @@ mend a great slit in my worked muslin gown before they are packed
 up. Good-bye. Give my love to Colonel Forster. I hope you will
 drink to our good journey.
 
-> “Your affectionate friend,
+“Your affectionate friend,
 
-> “Lydia Bennet.”
-
+“Lydia Bennet.”
 
 “Oh, thoughtless, thoughtless Lydia!” cried Elizabeth when she had finished it. “What a letter is this, to be written at such a moment! But at least it shows that *she* was serious in the object of her journey. Whatever he might afterwards persuade her to, it was not on her side a *scheme* of infamy. My poor father! how he must have felt it!”
 
@@ -3813,9 +3812,9 @@ Every day at Longbourn was now a day of anxiety; but the most anxious part of ea
 
 But before they heard again from Mr. Gardiner, a letter arrived for their father, from a different quarter, from Mr. Collins; which, as Jane had received directions to open all that came for him in his absence, she accordingly read; and Elizabeth, who knew what curiosities his letters always were, looked over her, and read it likewise. It was as follows:--
 
-> “My dear Sir,
+LETTER“My dear Sir,
 
-> “I feel myself called upon, by our relationship, and my situation
+“I feel myself called upon, by our relationship, and my situation
 in life, to condole with you on the grievous affliction you are now
 suffering under, of which we were yesterday informed by a letter
 from Hertfordshire. Be assured, my dear sir, that Mrs. Collins and
@@ -3846,7 +3845,7 @@ my dear sir, to console yourself as much as possible, to throw off
 your unworthy child from your affection for ever, and leave her to
 reap the fruits of her own heinous offence.
 
-> “I am, dear sir,” etc., etc.
+“I am, dear sir,” etc., etc.
 
 Mr. Gardiner did not write again, till he had received an answer from Colonel Forster; and then he had nothing of a pleasant nature to send. It was not known that Wickham had a single relation with whom he kept up any connection, and it was certain that he had no near one living. His former acquaintance had been numerous; but since he had been in the militia, it did not appear that he was on terms of particular friendship with any of them. There was no one, therefore, who could be pointed out as likely to give any news of him. And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount. Colonel Forster believed that more than a thousand pounds would be necessary to clear his expenses at Brighton. He owed a good deal in the town, but his debts of honour were still more formidable. Mr. Gardiner did not attempt to conceal these particulars from the Longbourn family; Jane heard them with horror. “A gamester!” she cried. “This is wholly unexpected; I had not an idea of it.”
 
@@ -3929,50 +3928,50 @@ Elizabeth impatiently caught it from his hand. Jane now came up.
 
 “Read it aloud,” said their father, “for I hardly know myself what it is about.”
 
-     “Gracechurch Street, *Monday, August 2*.
+LETTER“Gracechurch Street, *Monday, August 2*.
 
 “My dear Brother,
 
-     “At last I am able to send you some tidings of my niece, and such
-     as, upon the whole, I hope will give you satisfaction. Soon after
-     you left me on Saturday, I was fortunate enough to find out in what
-     part of London they were. The particulars I reserve till we meet.
-     It is enough to know they are discovered: I have seen them
-     both----”
+“At last I am able to send you some tidings of my niece, and such
+as, upon the whole, I hope will give you satisfaction. Soon after
+you left me on Saturday, I was fortunate enough to find out in what
+part of London they were. The particulars I reserve till we meet.
+It is enough to know they are discovered: I have seen them
+both----”
 
      
 
      
 
-     “Then it is as I always hoped,” cried Jane: “they are married!”
+“Then it is as I always hoped,” cried Jane: “they are married!”
 
-     Elizabeth read on: “I have seen them both. They are not married,
-     nor can I find there was any intention of being so; but if you are
-     willing to perform the engagements which I have ventured to make on
-     your side, I hope it will not be long before they are. All that is
-     required of you is, to assure to your daughter, by settlement, her
-     equal share of the five thousand pounds, secured among your
-     children after the decease of yourself and my sister; and,
-     moreover, to enter into an engagement of allowing her, during your
-     life, one hundred pounds per annum. These are conditions which,
-     considering everything, I had no hesitation in complying with, as
-     far as I thought myself privileged, for you. I shall send this by
-     express, that no time may be lost in bringing me your answer. You
-     will easily comprehend, from these particulars, that Mr. Wickham’s
-     circumstances are not so hopeless as they are generally believed to
-     be. The world has been deceived in that respect; and I am happy to
-     say, there will be some little money, even when all his debts are
-     discharged, to settle on my niece, in addition to her own fortune.
-     If, as I conclude will be the case, you send me full powers to act
-     in your name throughout the whole of this business, I will
-     immediately give directions to Haggerston for preparing a proper
-     settlement. There will not be the smallest occasion for your coming
-     to town again; therefore stay quietly at Longbourn, and depend on
-     my diligence and care. Send back your answer as soon as you can,
-     and be careful to write explicitly. We have judged it best that my
-     niece should be married from this house, of which I hope you will
-     approve. She comes to us to-day. I shall write again as soon as
-     anything more is determined on. Yours, etc.
+LETTERElizabeth read on: “I have seen them both. They are not married,
+nor can I find there was any intention of being so; but if you are
+willing to perform the engagements which I have ventured to make on
+your side, I hope it will not be long before they are. All that is
+required of you is, to assure to your daughter, by settlement, her
+equal share of the five thousand pounds, secured among your
+children after the decease of yourself and my sister; and,
+moreover, to enter into an engagement of allowing her, during your
+life, one hundred pounds per annum. These are conditions which,
+considering everything, I had no hesitation in complying with, as
+far as I thought myself privileged, for you. I shall send this by
+express, that no time may be lost in bringing me your answer. You
+will easily comprehend, from these particulars, that Mr. Wickham’s
+circumstances are not so hopeless as they are generally believed to
+be. The world has been deceived in that respect; and I am happy to
+say, there will be some little money, even when all his debts are
+discharged, to settle on my niece, in addition to her own fortune.
+If, as I conclude will be the case, you send me full powers to act
+in your name throughout the whole of this business, I will
+immediately give directions to Haggerston for preparing a proper
+settlement. There will not be the smallest occasion for your coming
+to town again; therefore stay quietly at Longbourn, and depend on
+my diligence and care. Send back your answer as soon as you can,
+and be careful to write explicitly. We have judged it best that my
+niece should be married from this house, of which I hope you will
+approve. She comes to us to-day. I shall write again as soon as
+anything more is determined on. Yours, etc.
 
 “Edw. Gardiner.”
 
@@ -4099,7 +4098,7 @@ How Wickham and Lydia were to be supported in tolerable independence she could n
 
 Mr. Gardiner soon wrote again to his brother. To Mr. Bennet’s acknowledgments he briefly replied, with assurances of his eagerness to promote the welfare of any of his family; and concluded with entreaties that the subject might never be mentioned to him again. The principal purport of his letter was to inform them, that Mr. Wickham had resolved on quitting the militia.
 
-“It was greatly my wish that he should do so,” he added, “as soon as his marriage was fixed on. And I think you will agree with me, in considering a removal from that corps as highly advisable, both on his account and my niece’s. It is Mr. Wickham’s intention to go into the Regulars; and, among his former friends, there are still some who are able and willing to assist him in the army. He has the promise of an ensigncy in General----’s regiment, now quartered in the north. It is an advantage to have it so far from this part of the kingdom. He promises fairly; and I hope among different people, where they may each have a character to preserve, they will both be more prudent. I have written to Colonel Forster, to inform him of our present arrangements, and to request that he will satisfy the various creditors of Mr. Wickham in and near Brighton with assurances of speedy payment, for which I have pledged myself. And will you give yourself the trouble of carrying similar assurances to his creditors in Meryton, of whom I shall subjoin a list, according to his information? He has given in all his debts; I hope at least he has not deceived us. Haggerston has our directions, and all will be completed in a week. They will then join his regiment, unless they are first invited to Longbourn; and I understand from Mrs. Gardiner that my niece is very desirous of seeing you all before she leaves the south. She is well, and begs to be dutifully remembered to you and her mother.--Yours, etc.
+LETTER“It was greatly my wish that he should do so,” he added, “as soon as his marriage was fixed on. And I think you will agree with me, in considering a removal from that corps as highly advisable, both on his account and my niece’s. It is Mr. Wickham’s intention to go into the Regulars; and, among his former friends, there are still some who are able and willing to assist him in the army. He has the promise of an ensigncy in General----’s regiment, now quartered in the north. It is an advantage to have it so far from this part of the kingdom. He promises fairly; and I hope among different people, where they may each have a character to preserve, they will both be more prudent. I have written to Colonel Forster, to inform him of our present arrangements, and to request that he will satisfy the various creditors of Mr. Wickham in and near Brighton with assurances of speedy payment, for which I have pledged myself. And will you give yourself the trouble of carrying similar assurances to his creditors in Meryton, of whom I shall subjoin a list, according to his information? He has given in all his debts; I hope at least he has not deceived us. Haggerston has our directions, and all will be completed in a week. They will then join his regiment, unless they are first invited to Longbourn; and I understand from Mrs. Gardiner that my niece is very desirous of seeing you all before she leaves the south. She is well, and begs to be dutifully remembered to you and her mother.--Yours, etc.
 
 “E. Gardiner.”
 
@@ -4219,158 +4218,158 @@ Jane’s delicate sense of honour would not allow her to speak to Elizabeth priv
 
 Elizabeth had the satisfaction of receiving an answer to her letter as soon as she possibly could. She was no sooner in possession of it, than hurrying into the little copse, where she was least likely to be interrupted, she sat down on one of the benches, and prepared to be happy; for the length of the letter convinced her that it did not contain a denial.
 
-     “Gracechurch Street, *Sept. 6*.
+LETTER“Gracechurch Street, *Sept. 6*.
 
 “My dear Niece,
 
-     “I have just received your letter, and shall devote this whole
-     morning to answering it, as I foresee that a *little* writing will
-     not comprise what I have to tell you. I must confess myself
-     surprised by your application; I did not expect it from *you*.
-     Don’t think me angry, however, for I only mean to let you know,
-     that I had not imagined such inquiries to be necessary on *your*
-     side. If you do not choose to understand me, forgive my
-     impertinence. Your uncle is as much surprised as I am; and nothing
-     but the belief of your being a party concerned would have allowed
-     him to act as he has done. But if you are really innocent and
-     ignorant, I must be more explicit. On the very day of my coming
-     home from Longbourn, your uncle had a most unexpected visitor. Mr.
-     Darcy called, and was shut up with him several hours. It was all
-     over before I arrived; so my curiosity was not so dreadfully racked
-     as *yours* seems to have been. He came to tell Mr. Gardiner that he
-     had found out where your sister and Mr. Wickham were, and that he
-     had seen and talked with them both--Wickham repeatedly, Lydia once.
-     From what I can collect, he left Derbyshire only one day after
-     ourselves, and came to town with the resolution of hunting for
-     them. The motive professed was his conviction of its being owing to
-     himself that Wickham’s worthlessness had not been so well known as
-     to make it impossible for any young woman of character to love or
-     confide in him. He generously imputed the whole to his mistaken
-     pride, and confessed that he had before thought it beneath him to
-     lay his private actions open to the world. His character was to
-     speak for itself. He called it, therefore, his duty to step
-     forward, and endeavour to remedy an evil which had been brought on
-     by himself. If he *had another* motive, I am sure it would never
-     disgrace him. He had been some days in town before he was able to
-     discover them; but he had something to direct his search, which was
-     more than *we* had; and the consciousness of this was another
-     reason for his resolving to follow us. There is a lady, it seems, a
-     Mrs. Younge, who was some time ago governess to Miss Darcy, and was
-     dismissed from her charge on some cause of disapprobation, though
-     he did not say what. She then took a large house in Edward Street,
-     and has since maintained herself by letting lodgings. This Mrs.
-     Younge was, he knew, intimately acquainted with Wickham; and he
-     went to her for intelligence of him, as soon as he got to town. But
-     it was two or three days before he could get from her what he
-     wanted. She would not betray her trust, I suppose, without bribery
-     and corruption, for she really did know where her friend was to be
-     found. Wickham, indeed, had gone to her on their first arrival in
-     London; and had she been able to receive them into her house, they
-     would have taken up their abode with her. At length, however, our
-     kind friend procured the wished-for direction. They were in ----
-     Street. He saw Wickham, and afterwards insisted on seeing Lydia.
-     His first object with her, he acknowledged, had been to persuade
-     her to quit her present disgraceful situation, and return to her
-     friends as soon as they could be prevailed on to receive her,
-     offering his assistance as far as it would go. But he found Lydia
-     absolutely resolved on remaining where she was. She cared for none
-     of her friends; she wanted no help of his; she would not hear of
-     leaving Wickham. She was sure they should be married some time or
-     other, and it did not much signify when. Since such were her
-     feelings, it only remained, he thought, to secure and expedite a
-     marriage, which, in his very first conversation with Wickham, he
-     easily learnt had never been *his* design. He confessed himself
-     obliged to leave the regiment on account of some debts of honour
-     which were very pressing; and scrupled not to lay all the ill
-     consequences of Lydia’s flight on her own folly alone. He meant to
-     resign his commission immediately; and as to his future situation,
-     he could conjecture very little about it. He must go somewhere, but
-     he did not know where, and he knew he should have nothing to live
-     on. Mr. Darcy asked why he did not marry your sister at once.
-     Though Mr. Bennet was not imagined to be very rich, he would have
-     been able to do something for him, and his situation must have been
-     benefited by marriage. But he found, in reply to this question,
-     that Wickham still cherished the hope of more effectually making
-     his fortune by marriage, in some other country. Under such
-     circumstances, however, he was not likely to be proof against the
-     temptation of immediate relief. They met several times, for there
-     was much to be discussed. Wickham, of course, wanted more than he
-     could get; but at length was reduced to be reasonable. Everything
-     being settled between *them*, Mr. Darcy’s next step was to make
-     your uncle acquainted with it, and he first called in Gracechurch
-     Street the evening before I came home. But Mr. Gardiner could not
-     be seen; and Mr. Darcy found, on further inquiry, that your father
-     was still with him, but would quit town the next morning. He did
-     not judge your father to be a person whom he could so properly
-     consult as your uncle, and therefore readily postponed seeing him
-     till after the departure of the former. He did not leave his name,
-     and till the next day it was only known that a gentleman had called
-     on business. On Saturday he came again. Your father was gone, your
-     uncle at home, and, as I said before, they had a great deal of talk
-     together. They met again on Sunday, and then *I* saw him too. It
-     was not all settled before Monday: as soon as it was, the express
-     was sent off to Longbourn. But our visitor was very obstinate. I
-     fancy, Lizzy, that obstinacy is the real defect of his character,
-     after all. He has been accused of many faults at different times;
-     but *this* is the true one. Nothing was to be done that he did not
-     do himself; though I am sure (and I do not speak it to be thanked,
-     therefore say nothing about it) your uncle would most readily have
-     settled the whole. They battled it together for a long time, which
-     was more than either the gentleman or lady concerned in it
-     deserved. But at last your uncle was forced to yield, and instead
-     of being allowed to be of use to his niece, was forced to put up
-     with only having the probable credit of it, which went sorely
-     against the grain; and I really believe your letter this morning
-     gave him great pleasure, because it required an explanation that
-     would rob him of his borrowed feathers, and give the praise where
-     it was due. But, Lizzy, this must go no further than yourself, or
-     Jane at most. You know pretty well, I suppose, what has been done
-     for the young people. His debts are to be paid, amounting, I
-     believe, to considerably more than a thousand pounds, another
-     thousand in addition to her own settled upon *her*, and his
-     commission purchased. The reason why all this was to be done by him
-     alone, was such as I have given above. It was owing to him, to his
-     reserve and want of proper consideration, that Wickham’s character
-     had been so misunderstood, and consequently that he had been
-     received and noticed as he was. Perhaps there was some truth in
-     *this*; though I doubt whether *his* reserve, or *anybody’s*
-     reserve can be answerable for the event. But in spite of all this
-     fine talking, my dear Lizzy, you may rest perfectly assured that
-     your uncle would never have yielded, if we had not given him credit
-     for *another interest* in the affair. When all this was resolved
-     on, he returned again to his friends, who were still staying at
-     Pemberley; but it was agreed that he should be in London once more
-     when the wedding took place, and all money matters were then to
-     receive the last finish. I believe I have now told you everything.
-     It is a relation which you tell me is to give you great surprise; I
-     hope at least it will not afford you any displeasure. Lydia came to
-     us, and Wickham had constant admission to the house. *He* was
-     exactly what he had been when I knew him in Hertfordshire; but I
-     would not tell you how little I was satisfied with *her* behaviour
-     while she stayed with us, if I had not perceived, by Jane’s letter
-     last Wednesday, that her conduct on coming home was exactly of a
-     piece with it, and therefore what I now tell you can give you no
-     fresh pain. I talked to her repeatedly in the most serious manner,
-     representing to her the wickedness of what she had done, and all
-     the unhappiness she had brought on her family. If she heard me, it
-     was by good luck, for I am sure she did not listen. I was sometimes
-     quite provoked; but then I recollected my dear Elizabeth and Jane,
-     and for their sakes had patience with her. Mr. Darcy was punctual
-     in his return, and, as Lydia imformed you, attended the wedding. He
-     dined with us the next day, and was to leave town again on
-     Wednesday or Thursday. Will you be very angry with me, my dear
-     Lizzy, if I take this opportunity of saying (what I was never bold
-     enough to say before) how much I like him? His behaviour to us has,
-     in every respect, been as pleasing as when we were in Derbyshire.
-     His understanding and opinions all please me; he wants nothing but
-     a little more liveliness, and *that*, if he marry *prudently*, his
-     wife may teach him. I thought him very sly; he hardly ever
-     mentioned your name. But slyness seems the fashion. Pray forgive
-     me, if I have been very presuming, or at least do not punish me so
-     far as to exclude me from P. I shall never be quite happy till I
-     have been all round the park. A low phaeton with a nice little pair
-     of ponies would be the very thing. But I must write no more. The
-     children have been wanting me this half hour.
+“I have just received your letter, and shall devote this whole
+morning to answering it, as I foresee that a *little* writing will
+not comprise what I have to tell you. I must confess myself
+surprised by your application; I did not expect it from *you*.
+Don’t think me angry, however, for I only mean to let you know,
+that I had not imagined such inquiries to be necessary on *your*
+side. If you do not choose to understand me, forgive my
+impertinence. Your uncle is as much surprised as I am; and nothing
+but the belief of your being a party concerned would have allowed
+him to act as he has done. But if you are really innocent and
+ignorant, I must be more explicit. On the very day of my coming
+home from Longbourn, your uncle had a most unexpected visitor. Mr.
+Darcy called, and was shut up with him several hours. It was all
+over before I arrived; so my curiosity was not so dreadfully racked
+as *yours* seems to have been. He came to tell Mr. Gardiner that he
+had found out where your sister and Mr. Wickham were, and that he
+had seen and talked with them both--Wickham repeatedly, Lydia once.
+From what I can collect, he left Derbyshire only one day after
+ourselves, and came to town with the resolution of hunting for
+them. The motive professed was his conviction of its being owing to
+himself that Wickham’s worthlessness had not been so well known as
+to make it impossible for any young woman of character to love or
+confide in him. He generously imputed the whole to his mistaken
+pride, and confessed that he had before thought it beneath him to
+lay his private actions open to the world. His character was to
+speak for itself. He called it, therefore, his duty to step
+forward, and endeavour to remedy an evil which had been brought on
+by himself. If he *had another* motive, I am sure it would never
+disgrace him. He had been some days in town before he was able to
+discover them; but he had something to direct his search, which was
+more than *we* had; and the consciousness of this was another
+reason for his resolving to follow us. There is a lady, it seems, a
+Mrs. Younge, who was some time ago governess to Miss Darcy, and was
+dismissed from her charge on some cause of disapprobation, though
+he did not say what. She then took a large house in Edward Street,
+and has since maintained herself by letting lodgings. This Mrs.
+Younge was, he knew, intimately acquainted with Wickham; and he
+went to her for intelligence of him, as soon as he got to town. But
+it was two or three days before he could get from her what he
+wanted. She would not betray her trust, I suppose, without bribery
+and corruption, for she really did know where her friend was to be
+found. Wickham, indeed, had gone to her on their first arrival in
+London; and had she been able to receive them into her house, they
+would have taken up their abode with her. At length, however, our
+kind friend procured the wished-for direction. They were in ----
+Street. He saw Wickham, and afterwards insisted on seeing Lydia.
+His first object with her, he acknowledged, had been to persuade
+her to quit her present disgraceful situation, and return to her
+friends as soon as they could be prevailed on to receive her,
+offering his assistance as far as it would go. But he found Lydia
+absolutely resolved on remaining where she was. She cared for none
+of her friends; she wanted no help of his; she would not hear of
+leaving Wickham. She was sure they should be married some time or
+other, and it did not much signify when. Since such were her
+feelings, it only remained, he thought, to secure and expedite a
+marriage, which, in his very first conversation with Wickham, he
+easily learnt had never been *his* design. He confessed himself
+obliged to leave the regiment on account of some debts of honour
+which were very pressing; and scrupled not to lay all the ill
+consequences of Lydia’s flight on her own folly alone. He meant to
+resign his commission immediately; and as to his future situation,
+he could conjecture very little about it. He must go somewhere, but
+he did not know where, and he knew he should have nothing to live
+on. Mr. Darcy asked why he did not marry your sister at once.
+Though Mr. Bennet was not imagined to be very rich, he would have
+been able to do something for him, and his situation must have been
+benefited by marriage. But he found, in reply to this question,
+that Wickham still cherished the hope of more effectually making
+his fortune by marriage, in some other country. Under such
+circumstances, however, he was not likely to be proof against the
+temptation of immediate relief. They met several times, for there
+was much to be discussed. Wickham, of course, wanted more than he
+could get; but at length was reduced to be reasonable. Everything
+being settled between *them*, Mr. Darcy’s next step was to make
+your uncle acquainted with it, and he first called in Gracechurch
+Street the evening before I came home. But Mr. Gardiner could not
+be seen; and Mr. Darcy found, on further inquiry, that your father
+was still with him, but would quit town the next morning. He did
+not judge your father to be a person whom he could so properly
+consult as your uncle, and therefore readily postponed seeing him
+till after the departure of the former. He did not leave his name,
+and till the next day it was only known that a gentleman had called
+on business. On Saturday he came again. Your father was gone, your
+uncle at home, and, as I said before, they had a great deal of talk
+together. They met again on Sunday, and then *I* saw him too. It
+was not all settled before Monday: as soon as it was, the express
+was sent off to Longbourn. But our visitor was very obstinate. I
+fancy, Lizzy, that obstinacy is the real defect of his character,
+after all. He has been accused of many faults at different times;
+but *this* is the true one. Nothing was to be done that he did not
+do himself; though I am sure (and I do not speak it to be thanked,
+therefore say nothing about it) your uncle would most readily have
+settled the whole. They battled it together for a long time, which
+was more than either the gentleman or lady concerned in it
+deserved. But at last your uncle was forced to yield, and instead
+of being allowed to be of use to his niece, was forced to put up
+with only having the probable credit of it, which went sorely
+against the grain; and I really believe your letter this morning
+gave him great pleasure, because it required an explanation that
+would rob him of his borrowed feathers, and give the praise where
+it was due. But, Lizzy, this must go no further than yourself, or
+Jane at most. You know pretty well, I suppose, what has been done
+for the young people. His debts are to be paid, amounting, I
+believe, to considerably more than a thousand pounds, another
+thousand in addition to her own settled upon *her*, and his
+commission purchased. The reason why all this was to be done by him
+alone, was such as I have given above. It was owing to him, to his
+reserve and want of proper consideration, that Wickham’s character
+had been so misunderstood, and consequently that he had been
+received and noticed as he was. Perhaps there was some truth in
+*this*; though I doubt whether *his* reserve, or *anybody’s*
+reserve can be answerable for the event. But in spite of all this
+fine talking, my dear Lizzy, you may rest perfectly assured that
+your uncle would never have yielded, if we had not given him credit
+for *another interest* in the affair. When all this was resolved
+on, he returned again to his friends, who were still staying at
+Pemberley; but it was agreed that he should be in London once more
+when the wedding took place, and all money matters were then to
+receive the last finish. I believe I have now told you everything.
+It is a relation which you tell me is to give you great surprise; I
+hope at least it will not afford you any displeasure. Lydia came to
+us, and Wickham had constant admission to the house. *He* was
+exactly what he had been when I knew him in Hertfordshire; but I
+would not tell you how little I was satisfied with *her* behaviour
+while she stayed with us, if I had not perceived, by Jane’s letter
+last Wednesday, that her conduct on coming home was exactly of a
+piece with it, and therefore what I now tell you can give you no
+fresh pain. I talked to her repeatedly in the most serious manner,
+representing to her the wickedness of what she had done, and all
+the unhappiness she had brought on her family. If she heard me, it
+was by good luck, for I am sure she did not listen. I was sometimes
+quite provoked; but then I recollected my dear Elizabeth and Jane,
+and for their sakes had patience with her. Mr. Darcy was punctual
+in his return, and, as Lydia imformed you, attended the wedding. He
+dined with us the next day, and was to leave town again on
+Wednesday or Thursday. Will you be very angry with me, my dear
+Lizzy, if I take this opportunity of saying (what I was never bold
+enough to say before) how much I like him? His behaviour to us has,
+in every respect, been as pleasing as when we were in Derbyshire.
+His understanding and opinions all please me; he wants nothing but
+a little more liveliness, and *that*, if he marry *prudently*, his
+wife may teach him. I thought him very sly; he hardly ever
+mentioned your name. But slyness seems the fashion. Pray forgive
+me, if I have been very presuming, or at least do not punish me so
+far as to exclude me from P. I shall never be quite happy till I
+have been all round the park. A low phaeton with a nice little pair
+of ponies would be the very thing. But I must write no more. The
+children have been wanting me this half hour.
 
 “Yours, very sincerely,
 
