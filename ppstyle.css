@@ -56,4 +56,7 @@ sup a {text-decoration: none;}
 #contents-of-the-first-volume p { margin-top:1em; text-indent: 0; }
 #frontmatter p { margin-top:1em; text-indent: 0; }
 
-div#.letter{}
+div#.letter{
+    font-family: Dancing_Script;
+line-height: 1.4em;
+}
