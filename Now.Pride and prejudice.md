@@ -3812,9 +3812,9 @@ Every day at Longbourn was now a day of anxiety; but the most anxious part of ea
 
 But before they heard again from Mr. Gardiner, a letter arrived for their father, from a different quarter, from Mr. Collins; which, as Jane had received directions to open all that came for him in his absence, she accordingly read; and Elizabeth, who knew what curiosities his letters always were, looked over her, and read it likewise. It was as follows:--
 
-> “My dear Sir,
+LETTER“My dear Sir,
 
-> “I feel myself called upon, by our relationship, and my situation
+“I feel myself called upon, by our relationship, and my situation
 in life, to condole with you on the grievous affliction you are now
 suffering under, of which we were yesterday informed by a letter
 from Hertfordshire. Be assured, my dear sir, that Mrs. Collins and
@@ -3845,7 +3845,7 @@ my dear sir, to console yourself as much as possible, to throw off
 your unworthy child from your affection for ever, and leave her to
 reap the fruits of her own heinous offence.
 
-> “I am, dear sir,” etc., etc.
+“I am, dear sir,” etc., etc.
 
 Mr. Gardiner did not write again, till he had received an answer from Colonel Forster; and then he had nothing of a pleasant nature to send. It was not known that Wickham had a single relation with whom he kept up any connection, and it was certain that he had no near one living. His former acquaintance had been numerous; but since he had been in the militia, it did not appear that he was on terms of particular friendship with any of them. There was no one, therefore, who could be pointed out as likely to give any news of him. And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount. Colonel Forster believed that more than a thousand pounds would be necessary to clear his expenses at Brighton. He owed a good deal in the town, but his debts of honour were still more formidable. Mr. Gardiner did not attempt to conceal these particulars from the Longbourn family; Jane heard them with horror. “A gamester!” she cried. “This is wholly unexpected; I had not an idea of it.”
 
