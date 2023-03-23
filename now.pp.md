@@ -543,7 +543,7 @@ Mrs. Bennet was prevented replying by the entrance of the footman with a note fo
 
 “If you are not so compassionate as to dine to-day with Louisa and
 me, we shall be in danger of hating each other for the rest of our
-lives; for a whole day’s *tête-à-tête* between two women can never
+lives; for a whole day’s *<span lang="fr-FR">tête-à-tête</span>* between two women can never
 end without a quarrel. Come as soon as you can on the receipt of
 this. My brother and the gentlemen are to dine with the officers.
 Yours ever,
@@ -852,8 +852,7 @@ Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to
 
 
 
-
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_ten.png" alt="chapter ten" style="width: 460px; height: 300px;"></br>
+![](images_chapters/chapter_ten.png "A woman in a regency dress looks longingly at a man who sits across the table from her. He is looking down and writing a letter with a feather pen. A stack of books surrounds him."){width=90%}
 
 # Chapter 10
 
@@ -1710,10 +1709,8 @@ To such perseverance in wilful self-deception Elizabeth would make no reply, and
 
 
 
+![](images_chapters/chapter_twenty.png "A middle-aged lady is entering a room, and a man is greeting the lady by a table. On the table there is a centrepiece of a cherub with a bow."){width=90%}
 
-
-
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_twenty.png" alt="A middle-aged lady is entering a room, and a man is greeting the lady by a table. On the table there is a centrepiece of a naked baby." style="width: 480px; height: 310px;"/><br />
 
 # Chapter 20
 
@@ -2442,11 +2439,8 @@ When Lady Catherine and her daughter had played as long as they chose, the table
 
 
 
+![](images_chapters/chapter_30.png "Two gentlemen are riding on a charriot pulled by a white horse."){width=90%}
 
-
-
-
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_30.png" alt="Two gentlemen are riding on a charriot pulled by a white horse." style="width: 360px; height: 400px;"></br>
 
 # Chapter 30
 
@@ -3038,10 +3032,9 @@ She had not been many hours at home, before she found that the Brighton scheme, 
 
 
 
+![](images_chapters/chapter_40.png "Two young ladies grooming in their room. The one on the left is sitting in front of a small mirror, and the one on the left is standing in front of a bigger mirror fixing her hairstyle."){width=90%}
 
 
-
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_40.png" alt="Two young ladies grooming in their room. The one on the left is sitting in front of a small mirror, and the one on the left is standing in front of a bigger mirror fixing her hairstyle." style="width: 360px; height: 400px;"></br>
 # Chapter 40
 
 
@@ -4087,10 +4080,8 @@ Mrs. Hill began instantly to express her joy. Elizabeth received her congratulat
 
 
 
+![](images_chapters/chapter_50.png "An image titled The spiteful old ladies showing three well-dressed ladies sitting and gossiping. A white cat is at the bottom left corner of the room."){width=90%}
 
-
-
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_50.png" alt="An image titled The spiteful old ladies showing three well-dressed ladies sitting and gossiping. A white cat is at the bottom left corner of the room." style="width: 360px; height: 400px;"></br>
 
 # Chapter 50
 
