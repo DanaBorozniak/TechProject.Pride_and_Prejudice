@@ -45,7 +45,7 @@ Preface.
 
 *George Saintsbury.*
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="page one" style="width: 520px; height: 800px;" /><br />
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="pride and prejudice chapter one heading with a peacock where a baby is looking into the peacock's tail" style="width: 90%;" /><br />
 
 # Chapter 1
 
