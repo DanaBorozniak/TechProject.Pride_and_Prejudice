@@ -4,7 +4,6 @@ author: Jane Austen
 language: eng-uk
 publisher: Ruskin House
 rights: Copyright 1894 by George Allen
-cover-image: ppcover.jpg
+cover-image: 
 stylesheet: ppstyle.css
-
 ---
