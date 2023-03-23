@@ -16,11 +16,12 @@
     <h2>Downloading the eBooks</h2>
     <p>To download the eBooks, simply click on the buttons below or use <code>git clone</code> command to clone the repository.</p>
     
-    <div class="download">
+    <div class="download_epub">
     <a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-bottom: 15px;">Download ePub</a><br/>
       
     </div>
-    <div class="download" style="margin-top: 60px;" >
+    
+    <div class="download_mobi" style="margin-top: 60px;">
     <a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download Mobi</a>
     </div>
     
