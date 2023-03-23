@@ -1,11 +1,7 @@
-ppstyle.css
-
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic);
 @import url(https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap%27);
 
 body {
-  background-color: lightyellow;
-  width: 35em;
   margin-left: 2em;
   line-height: 140%;
 }
