@@ -14,9 +14,9 @@
       <li>The <code>LICENSE</code> file contains the terms of use for this repository.</li>
     </ul>
     <h2>Downloading the eBooks</h2>
-    <p>To download the eBooks, simply click on the buttons below or use <code>git clone</code> command to clone the repository.</p>
-    <a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download ePub</a><br/>
-    <a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download Mobi</a>
+    <p>To download the eBooks, simply click on the buttons below or use <code>git clone</code> command to clone the repository.</p><div class="download_epub"  style="margin: 10px; margin-buttom: 0px;">
+    <a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download ePub</a></div><br/>
+    <div class="download_mobi"  style="margin: 10px; margin-top: 0px;"><a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download Mobi</a></div>
     <h2>Contributing</h2>
     <p>Contributions to improve the source files or add additional formats are welcome.</p>
     <p>To contribute, simply fork this repository, make the necessary changes, and submit a pull ### request.</p>
