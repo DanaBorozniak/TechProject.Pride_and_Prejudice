@@ -543,7 +543,7 @@ Mrs. Bennet was prevented replying by the entrance of the footman with a note fo
 
 “If you are not so compassionate as to dine to-day with Louisa and
 me, we shall be in danger of hating each other for the rest of our
-lives; for a whole day’s *<span lang="fr-FR">tête-à-tête</span>* between two women can never
+lives; for a whole day’s <p lang="FR"> *tête-à-tête* </p> between two women can never
 end without a quarrel. Come as soon as you can on the receipt of
 this. My brother and the gentlemen are to dine with the officers.
 Yours ever,
