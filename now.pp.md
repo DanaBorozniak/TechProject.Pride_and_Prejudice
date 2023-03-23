@@ -1,4 +1,4 @@
-<link rel= "stylesheet" href= "ppstyle.css" type= "text/css"><link/>
+<link rel= "stylesheet" href= "ppstyle.css" type= "text/css">
 Preface.
 
 
@@ -36,7 +36,7 @@ Preface.
 
 *George Saintsbury.*
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="page one" style="width: 260px; height: 400px;"></br>
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="page one" style="width: 520px; height: 800px;"></br>
 # Chapter 1
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.
