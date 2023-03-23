@@ -1,6 +1,7 @@
 ppstyle.css
 
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic);
+@import url(https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap%27);
 
 body {
   background-color: lightyellow;
@@ -56,7 +57,7 @@ sup a {text-decoration: none;}
 #contents-of-the-first-volume p { margin-top:1em; text-indent: 0; }
 #frontmatter p { margin-top:1em; text-indent: 0; }
 
-div#.letter{
-    font-family: Dancing_Script;
+div.letter{
+    font-family: 'Dancing Script', cursive;
 line-height: 1.4em;
 }
