@@ -19,7 +19,7 @@
     <p>To download the eBooks, simply click on the buttons below or use <code>git clone</code> command to clone the repository.</p>
 
 <div class="download_epub"  style="margin: 10px; margin-buttom: 0px;">
-<div class="cover_img" style="margin-botton: 10px;">
+<div class="cover_img" style="margin-bottom: 10px;">
     <img src="ppcover.jpg" alt="Cover" width="225" height="300"><br>
 </div>    
     <a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download ePub</a></div><br/><h2>Contributing</h2>
