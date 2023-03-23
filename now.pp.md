@@ -1,5 +1,12 @@
-<link rel= "stylesheet" href= "ppstyle.css" type= "text/css">
-
+---
+title: Pride and Prejudice
+author: Jane Austen
+language: eng-uk
+publisher: Ruskin House
+rights: Copyright 1894 by George Allen
+cover-image: ppcover.jpg
+stylesheet: ppstyle.css
+---
 
 Preface.
 
@@ -38,7 +45,7 @@ Preface.
 
 *George Saintsbury.*
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="page one" style="width: 520px; height: 800px;"></br>
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="page one" style="width: 520px; height: 800px;" /><br />
 
 # Chapter 1
 
@@ -847,6 +854,7 @@ Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to
 
 
 <img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_ten.png" alt="chapter ten" style="width: 460px; height: 300px;"></br>
+
 # Chapter 10
 
 
@@ -1705,7 +1713,7 @@ To such perseverance in wilful self-deception Elizabeth would make no reply, and
 
 
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_twenty.png" alt="chapter twenty" style="width: 480px; height: 310px;"></br>
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_twenty.png" alt="chapter twenty" style="width: 480px; height: 310px;"/><br />
 
 # Chapter 20
 
