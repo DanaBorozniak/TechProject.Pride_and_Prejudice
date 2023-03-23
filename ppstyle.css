@@ -53,6 +53,6 @@ sup a {text-decoration: none;}
 #frontmatter p { margin-top:1em; text-indent: 0; }
 
 div.letter{
-    font-family: 'Dancing Script';
+    font-family: Dancing_Script, cursive;
 line-height: 1.4em;
 }
