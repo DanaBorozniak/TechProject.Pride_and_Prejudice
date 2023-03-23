@@ -36,7 +36,7 @@ Preface.
 
 *George Saintsbury.*
 
-<img src="GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="" style="width:42px;height:42px;">
+<img src="/Users/mac/Documents/GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="" style="width: 260px; height: 400px;"></br>
 # Chapter 1
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.
@@ -843,7 +843,7 @@ Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to
 
 
 
-
+<img src="/Users/mac/Documents/GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_ten.png" alt="" style="width: 460px; height: 300px;"></br>
 # Chapter 10
 
 
@@ -1702,7 +1702,7 @@ To such perseverance in wilful self-deception Elizabeth would make no reply, and
 
 
 
-
+<img src="/Users/mac/Documents/GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_twenty.png" alt="" style="width: 480px; height: 310px;"></br>
 
 # Chapter 20
 
@@ -2435,7 +2435,7 @@ When Lady Catherine and her daughter had played as long as they chose, the table
 
 
 
-
+<img src="/Users/mac/Documents/GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_30.png" alt="" style="width: 360px; height: 400px;"></br>
 
 # Chapter 30
 
@@ -3030,7 +3030,7 @@ She had not been many hours at home, before she found that the Brighton scheme, 
 
 
 
-
+<img src="/Users/mac/Documents/GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_40.png" alt="" style="width: 360px; height: 400px;"></br>
 # Chapter 40
 
 
@@ -4079,7 +4079,7 @@ Mrs. Hill began instantly to express her joy. Elizabeth received her congratulat
 
 
 
-
+<img src="/Users/mac/Documents/GitHub/TechProject.Pride_and_Prejudice/images_chapters/chapter_50.png" alt="" style="width: 360px; height: 400px;"></br>
 
 # Chapter 50
 
