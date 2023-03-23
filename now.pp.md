@@ -45,7 +45,7 @@ Preface.
 
 *George Saintsbury.*
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_one.png" alt="page one" style="width: 520px; height: 800px;" /><br />
+![](images_chapters/chapter_one.png "pride and prejudice chapter one heading with a peacock where a baby is looking into the peacock's tail"){width=90%}
 
 # Chapter 1
 
@@ -1713,7 +1713,7 @@ To such perseverance in wilful self-deception Elizabeth would make no reply, and
 
 
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_twenty.png" alt="chapter twenty" style="width: 480px; height: 310px;"/><br />
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_twenty.png" alt="A middle-aged lady is entering a room, and a man is greeting the lady by a table. On the table there is a centrepiece of a naked baby." style="width: 480px; height: 310px;"/><br />
 
 # Chapter 20
 
@@ -2446,7 +2446,7 @@ When Lady Catherine and her daughter had played as long as they chose, the table
 
 
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_30.png" alt="cpater thirty" style="width: 360px; height: 400px;"></br>
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_30.png" alt="Two gentlemen are riding on a charriot pulled by a white horse." style="width: 360px; height: 400px;"></br>
 
 # Chapter 30
 
@@ -3041,7 +3041,7 @@ She had not been many hours at home, before she found that the Brighton scheme, 
 
 
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_40.png" alt="chapter forty" style="width: 360px; height: 400px;"></br>
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_40.png" alt="Two young ladies grooming in their room. The one on the left is sitting in front of a small mirror, and the one on the left is standing in front of a bigger mirror fixing her hairstyle." style="width: 360px; height: 400px;"></br>
 # Chapter 40
 
 
@@ -4090,7 +4090,7 @@ Mrs. Hill began instantly to express her joy. Elizabeth received her congratulat
 
 
 
-<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_50.png" alt="chapter fifty" style="width: 360px; height: 400px;"></br>
+<img src="../TechProject.Pride_and_Prejudice/images_chapters/chapter_50.png" alt="An image titled The spiteful old ladies showing three well-dressed ladies sitting and gossiping. A white cat is at the bottom left corner of the room." style="width: 360px; height: 400px;"></br>
 
 # Chapter 50
 
