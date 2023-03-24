@@ -8,8 +8,7 @@ cover-image: ppcover.jpg
 stylesheet: ppstyle.css
 ---
 
-Preface.
-
+# Preface
 
 
 
@@ -45,7 +44,7 @@ Preface.
 
 *George Saintsbury.*
 
-![](images_chapters/chapter_one.png "pride and prejudice chapter one heading with a peacock where a baby is looking into the peacock's tail"){width=90%}
+![Pride and prejudice chapter one heading with a peacock where a cherub is looking into the peacock's tail.](images_chapters/chapter_one.png){width=90%}
 
 # Chapter 1
 
@@ -852,7 +851,7 @@ Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to
 
 
 
-![](images_chapters/chapter_ten.png "A woman in a regency dress looks longingly at a man who sits across the table from her. He is looking down and writing a letter with a feather pen. A stack of books surrounds him."){width=90%}
+![A woman in a regency dress looks longingly at a man who sits across the table from her. He is looking down and writing a letter with a feather pen. A stack of books surrounds him.](images_chapters/chapter_ten.png){width=90%}
 
 # Chapter 10
 
@@ -1709,7 +1708,7 @@ To such perseverance in wilful self-deception Elizabeth would make no reply, and
 
 
 
-![](images_chapters/chapter_twenty.png "A middle-aged lady is entering a room, and a man is greeting the lady by a table. On the table there is a centrepiece of a cherub with a bow."){width=90%}
+![A middle-aged lady is entering a room, and a man is greeting the lady by a table. On the table there is a centrepiece of a cherub with a bow.](images_chapters/chapter_twenty.png){width=90%}
 
 
 # Chapter 20
@@ -2439,7 +2438,7 @@ When Lady Catherine and her daughter had played as long as they chose, the table
 
 
 
-![](images_chapters/chapter_30.png "Two gentlemen are riding on a charriot pulled by a white horse."){width=90%}
+![Two gentlemen are riding on a charriot pulled by a white horse.](images_chapters/chapter_30.png){width=90%}
 
 
 # Chapter 30
@@ -3032,7 +3031,7 @@ She had not been many hours at home, before she found that the Brighton scheme, 
 
 
 
-![](images_chapters/chapter_40.png "Two young ladies grooming in their room. The one on the left is sitting in front of a small mirror, and the one on the left is standing in front of a bigger mirror fixing her hairstyle."){width=90%}
+![Two young ladies grooming in their room. The one on the left is sitting in front of a small mirror, and the one on the left is standing in front of a bigger mirror fixing her hairstyle.](images_chapters/chapter_40.png){width=90%}
 
 
 # Chapter 40
@@ -4080,7 +4079,7 @@ Mrs. Hill began instantly to express her joy. Elizabeth received her congratulat
 
 
 
-![](images_chapters/chapter_50.png "An image titled The spiteful old ladies showing three well-dressed ladies sitting and gossiping. A white cat is at the bottom left corner of the room."){width=90%}
+![An image titled The spiteful old ladies showing three well-dressed ladies sitting and gossiping. A white cat is at the bottom left corner of the room.](images_chapters/chapter_50.png){width=90%}
 
 
 # Chapter 50

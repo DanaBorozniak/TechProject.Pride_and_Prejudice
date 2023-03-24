@@ -21,7 +21,7 @@
 <div class="cover_img" style="margin-bottom: 10px;">
     <img src="ppcover.jpg" alt="Cover" width="225" height="300"><br>
 </div>    
-    <a href="#" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download ePub</a></div><br/><h2>Contributing</h2>
+    <a href="final.pp.epub" style="background-color: #ff7f50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download ePub</a></div><br/><h2>Contributing</h2>
     <p>Contributions to improve the source files or add additional formats are welcome.</p>
     <p>To contribute, simply fork this repository, make the necessary changes, and submit a pull ### request.</p>
     <h2>License</h2>
