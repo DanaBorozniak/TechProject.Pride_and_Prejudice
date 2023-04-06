@@ -10,7 +10,7 @@
 <p>Pride and Prejudice is a classic novel by Jane Austen, published in 1813. The story is set in 19th-century England and revolves around the Bennet family, particularly the second eldest daughter, Elizabeth. The novel explores themes of love, marriage, class, and reputation, as well as the societal norms and expectations of the time. The plot centers on the tension-filled relationship between Elizabeth and the proud, wealthy Mr. Darcy, and how their initial prejudices and misunderstandings eventually give way to a deeper, more genuine affection. Pride and Prejudice is widely considered one of the greatest works of English literature and a must-read for fans of romantic fiction and historical fiction alike.</p>
     <h2>Contents</h2>
     <ul>
-      <li>The repository contains two eBook formats: <code>.epub</code>.</li>
+      <li>The repository contains eBook format: <code>.epub</code>.</li>
       <li>The <code>source</code> directory contains the source files used to create the eBooks.</li>
       <li>The <code>LICENSE</code> file contains the terms of use for this repository.</li>
     </ul>
